@@ -1,0 +1,11 @@
+{
+  "name": "test-ddc",
+  "devDependencies": {
+    "file-watcher-webpack-plugin": "^1.1.0",
+    "source-map-loader": "^0.1.5",
+    "watch": "^0.19.2",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.16.0",
+    "webpack-shell-plugin": "^0.4.3"
+  }
+}
